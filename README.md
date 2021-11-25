@@ -15,4 +15,4 @@ Page Link : https://github.com/TheRubyRoseYT/C-Blue/releases
 
 Whats New? -
 #
-Within the newest grand update weve added sadly nothing, As the repository is new we havent even started yet!
+There's truly nothing here! We are still working to have a first version but for now this is an empty project. A fish in the sea, A grain of sand, A star in the universe.
