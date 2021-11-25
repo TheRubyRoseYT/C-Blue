@@ -11,7 +11,7 @@ Public    : True
  
 Download  : True
  
-Page Link :
+Page Link : https://github.com/TheRubyRoseYT/C-Blue/releases
 
 Whats New? -
 #
